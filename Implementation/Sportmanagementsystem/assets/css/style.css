@@ -1,0 +1,21 @@
+#logout{
+
+    float: right;
+    position: relative;
+    top: -60px;
+}
+#login-fieldset{
+
+    position: relative;
+    left: 300px;
+    top: 100px;
+}
+
+.dashboard{
+	text-decoration: none;
+	color:white;
+}
+
+a{
+    color: antiquewhite;
+}
